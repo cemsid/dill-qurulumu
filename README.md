@@ -71,9 +71,11 @@
 > Qısaca anlatmaq gerekirse bu linkə keçid edirsiz. Daha sonra sunucuya aşağıdaki kodu yazırsız.
 
 
-`cd`
-`cd /root/dill/validator_keys`
-`ls`
+1. `cd`
+
+2. `cd /root/dill/validator_keys`
+
+3. `ls`
 
 > Şəkildə gördüyünüz kimi mənim dosyamın adı deposit_data-1728307158.json'dur. Sizdə rəqəm fərqi olacaq böyük ehtimal.
 

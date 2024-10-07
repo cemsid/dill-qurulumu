@@ -1,4 +1,4 @@
-# dill-qurulumu
+# Dill-qurulumu
 
 
 > Qurulum çox da çətin deyil. Sadəcə termius vəya başqa terminallara aşağıdaki kodları bir bir girməyiniz kifayətdir. Hərhansısa sualınızda sizə köməklik edə bilərəm. Telegramdan mənimlə əlaqəyə keçə bilərsiniz: @cemsidesedov
@@ -45,7 +45,59 @@
 
 ![image](https://github.com/user-attachments/assets/39d7b7d3-3e4e-4cb6-9886-8a084558686b)
 
-Validatoru problemsiz qurduq :)
+> Validatoru problemsiz qurduq :)
+
+
+# Bəs Stake?
+
+> Stake etməsək validatorumuz işləməz və bizə heç bir xeyri olmaz. Gəlin stake etməyi öyrənək.
+
+
+![image](https://github.com/user-attachments/assets/9a5fdf3e-d801-4c62-a0ae-14c69c2e3aee)
+
+> Dillin rəsmi discord kanalına gəlirik. memoriclərin saxladığınız metamask kaşlokunun adresini discordda alps bölümünə yazacaqsınız.
+
+> Aşağıdakı kimi yazmalısınız:
+
+> $request 0x4673a84eEDe48F520357dC63A8b730c8115D76F9
+
+![image](https://github.com/user-attachments/assets/2ae92166-ce31-42e8-a11c-c9797caf0749)
+
+> Mən qabaqcadan aldığım üçün indi ala bilmirəm. Seçilsəniz sizə test tokenləri göndəriləcək.
+
+> Stake etmək haqqında bir link var: https://dill.xyz/docs/RunANode/Alps#staking
+
+
+> Qısaca anlatmaq gerekirse bu linkə keçid edirsiz. Daha sonra sunucuya aşağıdaki kodu yazırsız.
+
+`cd`
+`cd /root/dill/validator_keys`
+`ls`
+
+>Şəkildə gördüyünüz kimi mənim dosyamın adı deposit_data-1728307158.json'dur. Sizdə rəqəm fərqi olacaq böyük ehtimal.
+
+![image](https://github.com/user-attachments/assets/1e157d61-1aa5-456b-9497-cca07e080070)
+
+
+> Aşağıdakı kod ilə faylın içini görə bilərsiniz (dosyanın rəqəminə diqqət edin).
+
+![image](https://github.com/user-attachments/assets/4497b6b1-9cf0-44a1-90a2-dbe82a5fc054)
+
+"[{" ile başlayan və "}]" ilə bitən (daxil olmaqla) kopya edirik. Şəkildəki kimi:
+
+![image](https://github.com/user-attachments/assets/c94f9203-467b-483d-ad9c-cc152c4473f2)
+
+> Və gəlib aşağıdakı web sayta yapışdırırsız: https://staking.dill.xyz/en/
+
+![image](https://github.com/user-attachments/assets/1cdb9eed-eb86-4303-8b07-03d73a2ecacc)
+
+> Daha sonra Continue butonuna click edirik.
+
+![image](https://github.com/user-attachments/assets/3c7176c2-f288-4a0c-b6eb-34a05a830ab2)
+
+
+> Məndə token yoxdur deyə stake edə bilmirəm. 2 dəfə stake etmişəm. Bu qədər. Sağolun.
+
 
 
 

@@ -7,7 +7,7 @@
 
 > Dil Node skriptini yükləyin və işə salın. Terminalınızı açın və yeni bir Dill nodesini başlatmaq üçün aşağıdakı əmri icra edin:
 
-```curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh && chmod +x dill.sh && ./dill.sh```
+`curl -sO https://raw.githubusercontent.com/DillLabs/launch-dill-node/main/dill.sh && chmod +x dill.sh && ./dill.sh`
 
 ![image](https://github.com/user-attachments/assets/7b469a9e-2db3-403f-84a7-fc1bd33f4f76)
 
